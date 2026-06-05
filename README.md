@@ -6,7 +6,7 @@ Stereo Test is a command based channel testing tool made in python meant to be v
 
 ## 📦 download
 
-You can download the official installer from this  release here:
+You can download the official installer from this release here:
 
 👉 https://github.com/EclipseAFK/Stereo-Test/releases/tag/frozen_release
 
